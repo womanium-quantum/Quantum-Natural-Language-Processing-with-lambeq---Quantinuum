@@ -29,8 +29,8 @@ In this stage, we were in need of a model that could perform the sentence compar
 
 Then, we trained the model over a portion of the dataset (`80%`)  so to validate and test with the other `20%`. And at the end visualized the results we got from the training.
 
-Future improvements:
+**Future improvements:**
 - Create circuit reader function that is able to read each element but then we include it in the opposite order.
 - Implement a better similarity metric.
-- Train the model using AerBackend
+- Train the model using `AerBackend`
 - Having a bigger dataset
