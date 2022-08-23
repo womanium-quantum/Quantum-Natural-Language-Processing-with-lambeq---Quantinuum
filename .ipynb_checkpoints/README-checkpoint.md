@@ -1,4 +1,4 @@
-## Quantum Natural Language Processing with lambeq --> by Quantinuum
+# Quantum Natural Language Processing with lambeq --> by Quantinuum
 
 Womanium Quantum Hackathon 2022
 
@@ -15,7 +15,7 @@ Womanium Quantum Hackathon 2022
   - Etendra Verma -> Github: etendra2501, Email: etendraverma2501@gmail.com
 - **Pitch Presenter**: Tessa Evers
 
-### Summary:
+## Summary:
 
 The goal of the project is to create a quantum model that takes two sentences and responds with the similarity between them (1 for similar, 0 for not similar), and similarity is defined to be as being of the same topic. The data provided was only using statements either related to `food` or `it`, but the model could then be extended when having a larger dataset with different topics.
 
