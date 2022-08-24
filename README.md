@@ -1,14 +1,14 @@
 # Quantum-Natural-Language-Processing-with-lambeq---Quantinuum
 Womanium Quantum Hackathon 2022
 
-
-Team Name : HareKrishna
-Team Member : Ramachandran SS
-Discord ID : Ramachandran SS#0280
-Email : ramachandranss22@gmail.com, rsekani@ncsu.edu
-Github ID : https://github.com/RamAIbot
-Pitch Presenter : Ramachandran SS
-Name of Challenge : Quantum Natural Language Processing with lambeq --> by Quantinuum
+Old Team Name : Harekrishna <br/>
+Team Name : HareKrishna_new <br/>
+Team Member : Ramachandran SS <br/>
+Discord ID : Ramachandran SS#0280 <br/>
+Email : ramachandranss22@gmail.com, rsekani@ncsu.edu <br/>
+Github ID : https://github.com/RamAIbot <br/>
+Pitch Presenter : Ramachandran SS <br/>
+Name of Challenge : Quantum Natural Language Processing with lambeq --> by Quantinuum <br/>
 
 
 
