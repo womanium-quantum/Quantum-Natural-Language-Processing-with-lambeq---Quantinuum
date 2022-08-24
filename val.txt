@@ -1,0 +1,20 @@
+experienced chef creates complicated dish, experienced chef prepares meal, 1
+skilful cook creates meal, chef prepares dish, 1
+programmer writes advanced code, hacker writes code, 1
+devoted hacker writes complicated code, skilful chef creates dish, 0
+hacker creates code, programmer creates complicated code, 1
+experienced chef prepares meal, programmer creates code, 0
+programmer writes code, chef creates tasty dish, 0
+skilful programmer creates advanced code, skilful hacker writes complicated code, 1
+hacker creates advanced code, programmer creates code, 1
+skilful programmer creates complicated code, chef creates meal, 0
+chef creates tasty meal, skilful programmer writes advanced code, 0
+skilful chef creates tasty dish, skilful hacker writes code, 0
+skilful programmer creates code, devoted hacker creates complicated code, 1
+chef prepares meal, cook creates dish, 1
+skilful cook creates meal, experienced chef creates meal, 1
+experienced cook prepares dish, skilful hacker writes code, 0
+hacker writes code, skilful hacker creates code, 1
+hacker creates code, chef prepares dish, 0
+devoted programmer creates complicated code, devoted hacker writes advanced code, 1
+devoted hacker writes code, hacker writes complicated code, 1
