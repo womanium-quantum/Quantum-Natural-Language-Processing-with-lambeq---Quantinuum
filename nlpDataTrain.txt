@@ -1,0 +1,101 @@
+1  cook creates complicated dish, experienced chef prepares complicated dish
+1  skilful programmer creates code, devoted hacker writes code
+0  skilful cook creates meal, devoted hacker creates complicated code
+1  hacker writes code, skilful hacker creates code
+1  devoted hacker writes code, hacker writes complicated code
+1  skilful programmer creates advanced code, skilful hacker writes complicated code
+1  experienced cook prepares meal, experienced chef prepares meal
+1  devoted programmer creates advanced code, skilful programmer writes advanced code
+1  hacker creates code, programmer creates complicated code
+0  programmer creates code, cook prepares complicated dish
+0  chef prepares complicated dish, skilful hacker creates code
+0  skilful chef creates tasty dish, skilful hacker writes code
+0  cook creates complicated dish, hacker writes code
+1  hacker writes code, devoted hacker creates code
+0  skilful programmer writes advanced code, chef prepares tasty dish
+1  programmer creates code, programmer creates advanced code
+0  skilful cook prepares tasty dish, hacker creates code
+0  chef creates dish, programmer writes advanced code
+1  experienced chef creates complicated dish, experienced chef prepares meal
+1  programmer writes code, programmer writes code
+1  experienced cook creates dish, skilful chef creates complicated dish
+1  skilful programmer creates code, devoted hacker creates complicated code
+1  cook creates meal, chef prepares complicated dish
+1  devoted hacker writes complicated code, devoted programmer creates complicated code
+0  programmer writes code, cook creates tasty dish
+1  skilful chef creates tasty meal, cook prepares tasty meal
+1  cook creates complicated meal, cook prepares dish
+1  chef prepares meal, skilful chef creates tasty dish
+1  programmer creates advanced code, hacker creates code
+0  skilful chef prepares complicated dish, skilful programmer writes code
+1  chef prepares meal, cook creates dish
+0  devoted hacker creates complicated code, cook creates complicated dish
+0  skilful chef creates tasty dish, hacker creates code
+1  experienced cook prepares tasty dish, chef creates complicated dish
+1  chef creates meal, skilful chef prepares tasty dish
+1  experienced chef creates tasty meal, cook creates dish
+1  chef creates meal, experienced cook prepares complicated dish
+0  devoted programmer creates complicated code, cook prepares tasty dish
+1  programmer creates code, devoted hacker writes code
+1  chef creates tasty meal, cook prepares complicated dish
+0  hacker creates code, skilful chef creates meal
+1  skilful chef prepares tasty dish, chef prepares tasty dish
+0  skilful programmer writes code, chef creates meal
+0  devoted programmer writes code, chef prepares dish
+1  experienced chef creates complicated meal, skilful cook prepares meal
+1  skilful hacker writes code, skilful hacker creates complicated code
+0  cook creates tasty dish, programmer creates advanced code
+0  skilful chef prepares tasty meal, devoted hacker creates code
+0  skilful chef creates tasty meal, skilful programmer creates code
+1  devoted programmer creates complicated code, devoted hacker writes advanced code
+0  skilful cook creates complicated dish, programmer writes code
+1  programmer writes code, skilful hacker writes advanced code
+1  chef prepares meal, skilful cook creates complicated dish
+0  cook prepares complicated dish, hacker writes advanced code
+1  cook prepares complicated meal, cook prepares complicated dish
+1  programmer writes advanced code, hacker writes code
+0  devoted hacker writes code, experienced cook creates meal
+0  hacker creates advanced code, chef creates dish
+0  chef creates tasty meal, skilful programmer writes advanced code
+1  cook creates dish, experienced cook prepares tasty meal
+0  experienced chef prepares meal, programmer creates code
+0  programmer writes complicated code, skilful cook creates tasty dish
+1  cook creates meal, chef creates dish
+0  programmer writes code, chef creates tasty dish
+1  cook creates dish, skilful chef prepares dish
+0  hacker creates code, cook creates complicated dish
+0  chef creates dish, programmer creates complicated code
+0  experienced cook prepares dish, skilful hacker writes code
+1  chef prepares meal, chef prepares dish
+0  hacker writes code, cook prepares tasty meal
+0  skilful hacker writes code, cook creates meal
+1  experienced cook creates meal, experienced chef creates dish
+1  chef prepares complicated dish, experienced cook prepares tasty dish
+0  skilful chef prepares dish, programmer creates complicated code
+1  skilful cook creates meal, chef prepares dish
+0  programmer writes code, chef creates meal
+0  programmer creates complicated code, skilful cook prepares tasty meal
+0  experienced cook creates dish, programmer writes code
+0  skilful programmer writes advanced code, skilful cook prepares meal
+0  programmer creates code, chef creates dish
+0  hacker creates code, chef prepares dish
+1  skilful programmer creates complicated code, programmer writes complicated code
+1  experienced cook creates dish, skilful chef creates dish
+1  hacker creates advanced code, programmer creates code
+1  cook prepares meal, chef creates meal
+0  devoted hacker writes complicated code, skilful chef creates dish
+1  programmer creates complicated code, devoted hacker creates advanced code
+0  chef creates complicated meal, skilful programmer creates advanced code
+0  skilful programmer creates complicated code, chef creates meal
+0  devoted hacker creates complicated code, skilful cook prepares complicated meal
+1  chef creates complicated meal, cook prepares tasty dish
+1  chef prepares tasty meal, chef prepares meal
+0  programmer writes code, cook prepares complicated meal
+1  hacker writes advanced code, hacker creates code
+1  skilful cook creates meal, experienced chef creates meal
+1  programmer writes advanced code, hacker creates advanced code
+0  skilful chef creates meal, skilful hacker creates advanced code
+0  hacker writes advanced code, chef creates dish
+0  programmer creates code, cook creates dish
+1  experienced chef prepares complicated dish, skilful cook creates meal
+1  experienced chef prepares complicated dish, skilful cook creates meal
